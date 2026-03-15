@@ -35,10 +35,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 ---
 
 #### **Interesses & Field Knowledge**
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+
+<img align="center" alt="Windows 11" height="40" width="40" src="https://img.icons8.com/color/48/windows-11.png"> &nbsp; <img align="center" alt="macOS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"> &nbsp; <img align="center" alt="QGIS" height="40" width="40" src="https://www.vectorlogo.zone/logos/qgis/qgis-icon.svg"> &nbsp; <img align="center" alt="Bitcoin" height="40" width="40" src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/svg/color/btc.svg">
 
 ---
 
