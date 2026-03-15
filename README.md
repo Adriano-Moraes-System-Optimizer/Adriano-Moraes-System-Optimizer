@@ -7,7 +7,7 @@
 ---
 
 ### **Sobre Mim**
-Formado em **Processamento de Dados (1994)**. Especialista em infraestrutura de TI, redes e otimização de sistemas. Atualmente unindo 30 anos de experiência em hardware com as novas fronteiras da **Blockchain** e **IA**.
+Formado em **Processamento de Dados (1994)**. Especialista em infraestrutura de TI, redes e otimização de sistemas. Atualmente unindo 30 anos de experiência em software com as novas fronteiras da **Blockchain** e **IA**.
 
 ---
 
