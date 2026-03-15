@@ -40,4 +40,4 @@ Desenvolver sistemas inteligentes que utilizem **IA** para democratizar o acesso
 ---
 
 ### **⚡ Fun Fact**
-Operador do mercado financeiro (Scalper) por 2 anos com Tryd e Profit. O aprendizado prático (e os riscos superados) me deram uma base profunda para entender a psicologia do mercado e a estrutura real do ecossistema financeiro.
+Fui operador de mercado (Scalper) em Dólar e Índice por 2 anos. Minha estratégia era seguir o rastro dos Big Players, mas acabei deixando uma grana preta no mercado. No fim, o "prejuízo" virou investimento: ganhei disciplina técnica e a habilidade de identificar padrões que hoje levo para o desenvolvimento de sistemas e para o ecossistema de criptoativos.
