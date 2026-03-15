@@ -36,7 +36,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 #### **Interesses & Field Knowledge**
 
-<img align="center" alt="Windows 11" height="40" width="40" src="https://img.icons8.com/color/48/windows-11.png"> &nbsp; <img align="center" alt="macOS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"> &nbsp; <img align="center" alt="QGIS" height="40" width="40" src="https://www.vectorlogo.zone/logos/qgis/qgis-icon.svg"> &nbsp; <img align="center" alt="Bitcoin" height="40" width="40" src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/svg/color/btc.svg">
+<img align="center" alt="Windows 11" height="40" width="40" src="https://img.icons8.com/color/48/windows-11.png"> &nbsp; <img align="center" alt="macOS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"> &nbsp; <img align="center" alt="QGIS" height="40" width="40" src="https://www.vectorlogo.zone/logos/qgis/qgis-icon.svg"> &nbsp; <img align="center" alt="Google Earth" height="40" width="40" src="https://img.icons8.com/color/48/google-earth.png"> &nbsp; <img align="center" alt="My Maps" height="40" width="40" src="https://img.icons8.com/color/48/google-maps-new.png"> &nbsp; <img align="center" alt="Bitcoin" height="40" width="40" src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/svg/color/btc.svg"> &nbsp; <img align="center" alt="CoinMarketCap" height="40" width="40" src="https://simpleicons.org/icons/coinmarketcap.svg">
 
 ---
 
