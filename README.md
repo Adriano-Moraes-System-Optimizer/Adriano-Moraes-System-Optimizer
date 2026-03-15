@@ -25,9 +25,14 @@ Desenvolver sistemas inteligentes que utilizem **IA** para democratizar o acesso
 ---
 
 #### **Linguagens e Web**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<div style="display: inline_block"><br> 
+<img align="center" alt="Python" height="40" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+<img align="center" alt="HTML" height="40" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
+<img align="center" alt="CSS" height="40" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
+</div>   
 
 ---
 
