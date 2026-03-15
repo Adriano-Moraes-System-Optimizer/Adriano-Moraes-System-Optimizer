@@ -13,7 +13,7 @@ Formado em **Processamento de Dados (1994)**. Especialista em infraestrutura de 
 
 ### **🛠️ Especialidades Técnicas**
 
-* **Infraestrutura:** Servidores Windows, Redes TCP/IP, Firewall e Segurança.
+* **Infraestrutura:** Servidores Windows, Redes TCP/IP, Segurança, Clusters e Virtualização.
 * **Hardware:** Upgrade de performance, otimização de sistemas e soluções OpenCore.
 * **Web3 & ESG:** Tokenização de áreas rurais (convertedoras de carbono) via **QGIS** e **OpenSea**.
 
